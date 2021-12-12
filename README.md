@@ -1,5 +1,3 @@
-#Cassava Leaf Disease Classification
-
 Cassava Leaf Disease Classification
 
 The purpose of this project is to identify the type of disease present on a Cassava Leaf image.
