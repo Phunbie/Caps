@@ -22,4 +22,7 @@ run commands below
 docker build -t cassava-model .
 
 
+you can now run the test.py to get prediction from the containerised lambda-function.py. 
+
+
 docker run -it --rm -p 8080:8080 cassava-model:latest
