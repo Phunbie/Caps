@@ -13,4 +13,6 @@ The purpose for this project task is to classify each cassava image into four di
 The data was gotten from kaggle, I used colab in creating my notebooks,in order to be able to run Zoomcampcapstone notebook you need to download an API from kaggle and place it beside this notebook. 
 My second notebook(TFlite) was used to create a tflite model from the best model from my first notebook
 
-**Testing the code locally*
+**Testing the code locally**
+
+In order to be able to use the lambda_function.py you need to download the cassava.tflite model [from here](https://drive.google.com/file/d/1-6r_gZzszIS1OMWcZcaNNXsxqFn0m8nT/view?usp=drivesdk).if you want to run the tflite note you will need the [.h5 model ](https://drive.google.com/file/d/1vZXYte_tkP3iD8_iMKeE0ZUzRaBNZMKT/view?usp=drivesdk)
