@@ -15,7 +15,7 @@ My second notebook(TFlite) was used to create a tflite model from the best model
 
 **Testing the code locally**
 
-In order to be able to use the lambda_function.py you need to download the cassava.tflite model [from here](https://drive.google.com/file/d/1-6r_gZzszIS1OMWcZcaNNXsxqFn0m8nT/view?usp=drivesdk).if you want to run the tflite note you will need the [.h5 model ](https://drive.google.com/file/d/1vZXYte_tkP3iD8_iMKeE0ZUzRaBNZMKT/view?usp=drivesdk).The docker file and every other file needed to test the code locally is already in this repository.to test my code you need to run the command for building  and runing the dockerfile on your terminal.
+In order to be able to use the lambda_function.py you need to download the cassava.tflite model [from here](https://drive.google.com/file/d/1-6r_gZzszIS1OMWcZcaNNXsxqFn0m8nT/view?usp=drivesdk).if you want to run the tflite.ipynb notebook you will need the [.h5 model ](https://drive.google.com/file/d/1vZXYte_tkP3iD8_iMKeE0ZUzRaBNZMKT/view?usp=drivesdk).The docker file and every other file needed to test the code locally is already in this repository.to test my code you need to run the command for building  and runing the dockerfile on your terminal.
 
 run commands below
 
